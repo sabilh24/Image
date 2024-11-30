@@ -1,0 +1,2 @@
+# Image
+Tugas Aplikasi Komputer
